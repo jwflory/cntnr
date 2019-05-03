@@ -5,8 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 ipython = "*"
+twine = "*"
 
 [packages]
+cntnr = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"
