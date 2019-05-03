@@ -13,6 +13,13 @@ A CLI menu makes these selections possible.
 This project was created for a lab assignment in NSSA-244 Virtualization at the [Rochester Institute of Technology](https://www.rit.edu/).
 
 
+## Installation
+
+```
+pip install cntnr
+```
+
+
 ## Legal
 
 Licensed under Mozilla Public License 2.0.
